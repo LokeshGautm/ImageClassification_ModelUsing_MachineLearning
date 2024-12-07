@@ -24,6 +24,10 @@ Image classification model using machine leanring is a integration of two models
 <br>
 *streamlit run app.py*
 
+**Step 5**: Select the Model from the nevigation.
+
+**Step 6**: Upload the Image and get the result of your work.
+
 **NOTE**-: Tensorflow support only Python 3.8 ot 3.11 version of python right now.
 
 ## Acknowlegements
